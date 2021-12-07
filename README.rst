@@ -2,18 +2,18 @@
 Cookiecutter PyPackage
 ======================
 
-.. image:: https://travis-ci.org/briggySmalls/cookiecutter-pypackage.svg?branch=master
-    :target: https://travis-ci.org/briggySmalls/cookiecutter-pypackage
+.. image:: https://travis-ci.com/beenhazed/cookiecutter-pypackage.svg?branch=master
+    :target: https://travis-ci.com/beenhazed/cookiecutter-pypackage
     :alt: Linux build status on Travis CI
 
-.. image:: https://ci.appveyor.com/api/projects/status/github/briggySmalls/cookiecutter-pypackage?branch=master&svg=true
-    :target: https://ci.appveyor.com/project/briggySmalls/cookiecutter-pypackage/branch/master
+.. image:: https://ci.appveyor.com/api/projects/status/github/beenhazed/cookiecutter-pypackage?branch=master&svg=true
+    :target: https://ci.appveyor.com/project/beenhazed/cookiecutter-pypackage/branch/master
     :alt: Windows build status on Appveyor
 
 Cookiecutter_ template for a Python package, forked from `audreyr/cookiecutter-pypackage`_.
 
-* GitHub repo: https://github.com/briggySmalls/cookiecutter-pypackage/
-* Documentation: https://briggysmalls.github.io/cookiecutter-pypackage/
+* GitHub repo: https://github.com/beenhazed/cookiecutter-pypackage/
+* Documentation: https://beenhazed.github.io/cookiecutter-pypackage/
 * Free software: BSD license
 
 .. _audreyr/cookiecutter-pypackage: https://github.com/audreyr/cookiecutter-pypackage
@@ -40,7 +40,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/briggySmalls/cookiecutter-pypackage.git
+    cookiecutter https://github.com/beenhazed/cookiecutter-pypackage.git
 
 Then:
 
@@ -59,7 +59,7 @@ Then:
 
 For more details, see the `cookiecutter-pypackage tutorial`_.
 
-.. _`cookiecutter-pypackage tutorial`: https://briggysmalls.github.io/cookiecutter-pypackage/tutorial.html
+.. _`cookiecutter-pypackage tutorial`: https://beenhazed.github.io/cookiecutter-pypackage/tutorial.html
 
 .. _invoke: http://www.pyinvoke.org/
 .. _isort: https://pypi.org/project/isort/
@@ -67,8 +67,8 @@ For more details, see the `cookiecutter-pypackage tutorial`_.
 .. _flake8: https://pypi.org/project/flake8/
 .. _pylint: https://www.pylint.org/
 .. _poetry: https://python-poetry.org/
-.. _original_pypackage: https://github.com/briggySmalls/cookiecutter-pypackage/
-.. _Travis-CI: http://travis-ci.org/
+.. _original_pypackage: https://github.com/beenhazed/cookiecutter-pypackage/
+.. _Travis-CI: http://travis-ci.com/
 .. _Tox: http://testrun.org/tox/
 .. _Sphinx: http://sphinx-doc.org/
 .. _Read the Docs: https://readthedocs.io/
